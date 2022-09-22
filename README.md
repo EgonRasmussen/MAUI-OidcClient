@@ -1,6 +1,6 @@
 # MAUI OidcClient demoeksempler
 
-- Projektet: MauiApp2, som kan logge ind og tilgå Api 
+- Projektet: OidcClient.MauiApp2, som kan logge ind og tilgå Api 
 - Projektet: MAUI-OidcClient, som indeholder en menu til Login, API og Logout
 
 Benytter demo.duendesoftware.com. [Duende .well-known/openid-configuration](https://demo.duendesoftware.com/.well-known/openid-configuration)
